@@ -1,0 +1,21 @@
+{
+    "client": {
+        "token": "MTA5MDgwODUyMzMzNzc4MTI4OA.Gz8f6r.lZ2kx_aGrToM0DjEKrewYXE4uXylEakLEwm2BI",
+        "embed": "016bdbs",
+        "username": "MARQUE STORE",
+        "avatar": "https://cdn.discordapp.com/attachments/1090816166441791559/1091104859870203924/loja.jpg",
+        "channel_bugs": "1090784101298098258",
+        "owner_id": "1090996486923366560"
+    },
+    "sales": {
+        "banner_sales": "",
+        "checkout_category_id": "1091105137738653697",
+        "channel_sales": "1091105215157125220",
+        "role_customer": "1090782199927804037",
+        "role_permission_approved": "1091105480211968201",
+        "banco": {
+            "qrcode": "",
+            "chave_pix": "7c851aa2-4d34-4594-8f66-315aa4169420"
+        }
+    }
+}
